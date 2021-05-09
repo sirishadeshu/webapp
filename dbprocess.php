@@ -17,7 +17,7 @@
             <a href="display.php" >Download</a></button>
 <div class="col-md-3" align="left">
   <button class="btn danger">
-            <a href="form.php" >Home</a></button>
+            <a href="index.php" >Home</a></button>
         </div>
         </div>
 	</div>
